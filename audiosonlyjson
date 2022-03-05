@@ -1,103 +1,47 @@
-    [
+{
+  "quranaudios": [
+    {   
+      "suraname": "Flash",
+      "suranamerhg": "Rohingya",
+      "suranumber": "1",
+      "power": "Speed Run : His connection to the Speed Force gives him plenty of abilities, making him one of the most interesting, and dangerous heroes in the DC Universe",
+      "url":"https://m.media-amazon.com/images/M/MV5BNTM4YThiMzktMDRlNi00NzAyLWI1YmQtNTdkMTNiN2Q0NzU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "suraname": "Super Man",
+       "suranamerhg": "Rohingya",
+         "suranumber": "2",
+      "power": "the powers of flight, superhuman strength, x-ray vision, heat vision, cold breath, super-speed, enhanced hearing, and nigh-invulnerability. While Superman is immensely strong both in terms of muscle power and ability to take physical punishment, he is not all-powerful.",
+      "url":"https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png"
+    },
+    {
+      "suraname": "Thor",
+       "suranamerhg": "Rohingya",
+         "suranumber": "3",
+      "suraname": "Superhuman strength, speed, endurance & resistance to injury.",
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQbuKL7NfxTMy1wUymb2tu25NONgb7TU_NE-KOzWF9UfMU5rRz"
+    },
+    {
+        "suraname":"Hulk",
+         "suranamerhg": "Rohingya",
+           "suranumber": "4",
+        "power":"Incredible superhuman strength, durability, and healing factor.Becomes more powerful as anger increases",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmp1rFpGLbPnfH6P_IlBcZyXa72_IIMeunYiZ8UEfvAkD0t-sa"
+    },
+    {
+        "suraname":"Vemon",
+         "suranamerhg": "Rohingya",
+           "suranumber": "5",
+        "power":"Venom also has super strength — which Brock's impressive build partly contributes to — the ability to heal its host, shape-shifting powers, the ability to create weapons literally out of nothing, heightened-sensory perception, and the ability to reproduce itself",
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiaZnJMuT6wI28t4yRE_rTyjKqAC3Lvg0eXF7WThdhivAf5fJQ"
+    }
+  ]
+}
 
-      
-      
-
-        {
-
-            "name": "Rohingya Noto Font",
-            "description": "𐴀𐴠𐴀𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴙𐴅𐴧𐴝 𐴄𐴝𐴘𐴔𐴡𐴃𐴢 𐴔𐴝𐴎𐴥𐴠 𐴃𐴡𐴌𐴥𐴠 𐴘𐴥𐴡 𐴉𐴝𐴘𐴓𐴝𐴔، 𐴃𐴡𐴌𐴥𐴠 𐴊𐴠𐴑𐴤𐴞 𐴀𐴥𐴡𐴘𐴓𐴝𐴔 𐴃𐴡𐴌 𐴉𐴝𐴒𐴡𐴓𐴢، 𐴀𐴦𐴡 𐴓𐴠𐴑𐴤𐴝 𐴃𐴟𐴘 𐴀𐴠𐴀𐴕 𐴑𐴥𐴠𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴌",
-            "Rating": "https://drive.google.com/file/d/1uZPtPD1PAdWyLtWc1PKIFvq8IbaFU88F/view?usp=drivesdk",
-            "episode": "0",
-            "categorie":"𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴕𐴡𐴄𐴥𐴟 𐴉𐴥𐴡𐴕𐴄𐴢",
-            "studio":"https://drive.google.com/file/d/12fOzcNjGrMWPaIGGxFnxZes_bBDJwHFK/view?usp=sharing",
-            "img": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/aanoto.jpg"
-
-        },
-
-        {
-
-            "name": "Rohingya Omari Font",
-            "description": "𐴀𐴠𐴀𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴙𐴅𐴧𐴝 𐴄𐴝𐴘𐴔𐴡𐴃𐴢 𐴔𐴝𐴎𐴥𐴠 𐴃𐴡𐴌𐴥𐴠 𐴘𐴥𐴡 𐴉𐴝𐴘𐴓𐴝𐴔، 𐴃𐴡𐴌𐴥𐴠 𐴊𐴠𐴑𐴤𐴞 𐴀𐴥𐴡𐴘𐴓𐴝𐴔 𐴃𐴡𐴌 𐴉𐴝𐴒𐴡𐴓𐴢، 𐴀𐴦𐴡 𐴓𐴠𐴑𐴤𐴝 𐴃𐴟𐴘 𐴀𐴠𐴀𐴕 𐴑𐴥𐴠𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴌",
-            "Rating": "0",
-            "episode": "0",
-            "categorie":"𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴀𐴟𐴔𐴥𐴡𐴌𐴞 𐴉𐴥𐴡𐴕𐴄𐴢",
-            "studio":"https://drive.google.com/file/d/19tdw9oP64ldVN4Rf-nFK-Hbm7gvpzEeG/view?usp=sharing",
-            "img": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/aaomari.jpg"
-
-        },
-          {
-
-            "name": "Rohingya Kunahara Font",
-            "description": "𐴀𐴠𐴀𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴙𐴅𐴧𐴝 𐴄𐴝𐴘𐴔𐴡𐴃𐴢 𐴔𐴝𐴎𐴥𐴠 𐴃𐴡𐴌𐴥𐴠 𐴘𐴥𐴡 𐴉𐴝𐴘𐴓𐴝𐴔، 𐴃𐴡𐴌𐴥𐴠 𐴊𐴠𐴑𐴤𐴞 𐴀𐴥𐴡𐴘𐴓𐴝𐴔 𐴃𐴡𐴌 𐴉𐴝𐴒𐴡𐴓𐴢، 𐴀𐴦𐴡 𐴓𐴠𐴑𐴤𐴝 𐴃𐴟𐴘 𐴀𐴠𐴀𐴕 𐴑𐴥𐴠𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴌",
-            "Rating": "0",
-            "episode": "0",
-            "categorie":"𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴑𐴟𐴕𐴝 𐴇𐴝𐴍𐴝 𐴉𐴥𐴡𐴕𐴄𐴢",
-            "studio":"https://drive.google.com/file/d/1qGvQX1MaNnASzXXybuL6Rxg5XlRvDB0p/view?usp=sharing",
-            "img": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/aakunahara.png"
-
-        },
 
 
-        {
 
-            "name": "Rohingya Gonwanya Font",
-            "description": "𐴀𐴠𐴀𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴙𐴅𐴧𐴝 𐴄𐴝𐴘𐴔𐴡𐴃𐴢 𐴔𐴝𐴎𐴥𐴠 𐴃𐴡𐴌𐴥𐴠 𐴘𐴥𐴡 𐴉𐴝𐴘𐴓𐴝𐴔، 𐴃𐴡𐴌𐴥𐴠 𐴊𐴠𐴑𐴤𐴞 𐴀𐴥𐴡𐴘𐴓𐴝𐴔 𐴃𐴡𐴌 𐴉𐴝𐴒𐴡𐴓𐴢، 𐴀𐴦𐴡 𐴓𐴠𐴑𐴤𐴝 𐴃𐴟𐴘 𐴀𐴠𐴀𐴕 𐴑𐴥𐴠𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴌",
-            "Rating": "0",
-            "episode": "0",
-            "categorie":"𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴒𐴤𐴟𐴣𐴖𐴝𐴛𐴧𐴝 𐴉𐴥𐴡𐴕𐴄𐴢",
-            "studio":"https://drive.google.com/file/d/1bqOlGLDWMjpqD7msFsR90nFJ4hmXYXYy/view?usp=sharing",
-            "img": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/aagunwanya.jpg"
 
-        },
 
-        {
 
-            "name": "Rohingya Kuna Font",
-            "description": "𐴀𐴠𐴀𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴙𐴅𐴧𐴝 𐴄𐴝𐴘𐴔𐴡𐴃𐴢 𐴔𐴝𐴎𐴥𐴠 𐴃𐴡𐴌𐴥𐴠 𐴘𐴥𐴡 𐴉𐴝𐴘𐴓𐴝𐴔، 𐴃𐴡𐴌𐴥𐴠 𐴊𐴠𐴑𐴤𐴞 𐴀𐴥𐴡𐴘𐴓𐴝𐴔 𐴃𐴡𐴌 𐴉𐴝𐴒𐴡𐴓𐴢، 𐴀𐴦𐴡 𐴓𐴠𐴑𐴤𐴝 𐴃𐴟𐴘 𐴀𐴠𐴀𐴕 𐴑𐴥𐴠𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴌",
-            "Rating": "0",
-            "episode": "0",
-            "categorie":"𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴑𐴟𐴕𐴝 𐴉𐴥𐴡𐴕𐴄𐴢",
-            "studio":"https://drive.google.com/file/d/15vYS3MlH7h5kcaalpya-_SuGmjHZdi45/view?usp=sharing",
-            "img": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/aakuna.jpg"
 
-        },
-
-        {
-
-            "name": "Rohingya Kufi Kuna Font",
-            "description": "𐴀𐴠𐴀𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴙𐴅𐴧𐴝 𐴄𐴝𐴘𐴔𐴡𐴃𐴢 𐴔𐴝𐴎𐴥𐴠 𐴃𐴡𐴌𐴥𐴠 𐴘𐴥𐴡 𐴉𐴝𐴘𐴓𐴝𐴔، 𐴃𐴡𐴌𐴥𐴠 𐴊𐴠𐴑𐴤𐴞 𐴀𐴥𐴡𐴘𐴓𐴝𐴔 𐴃𐴡𐴌 𐴉𐴝𐴒𐴡𐴓𐴢، 𐴀𐴦𐴡 𐴓𐴠𐴑𐴤𐴝 𐴃𐴟𐴘 𐴀𐴠𐴀𐴕 𐴑𐴥𐴠𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴌",
-            "Rating": "0",
-            "episode": "0",
-            "categorie":"𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴑𐴟𐴉𐴞 𐴑𐴟𐴕𐴝 𐴉𐴥𐴡𐴕𐴄𐴢",
-            "studio":"https://drive.google.com/file/d/1Pkcn8PJ1BiYZXxqXbcJmnzHnLYDqFW9o/view?usp=sharing",
-            "img": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/aakufikuna.jpg"
-
-        },
-
-        {
-
-            "name": "Rohingya Qutubi Kuna Font",
-            "description": "𐴀𐴠𐴀𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴙𐴅𐴧𐴝 𐴄𐴝𐴘𐴔𐴡𐴃𐴢 𐴔𐴝𐴎𐴥𐴠 𐴃𐴡𐴌𐴥𐴠 𐴘𐴥𐴡 𐴉𐴝𐴘𐴓𐴝𐴔، 𐴃𐴡𐴌𐴥𐴠 𐴊𐴠𐴑𐴤𐴞 𐴀𐴥𐴡𐴘𐴓𐴝𐴔 𐴃𐴡𐴌 𐴉𐴝𐴒𐴡𐴓𐴢، 𐴀𐴦𐴡 𐴓𐴠𐴑𐴤𐴝 𐴃𐴟𐴘 𐴀𐴠𐴀𐴕 𐴑𐴥𐴠𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴌",
-            "Rating": "0",
-            "episode": "0",
-            "categorie":"𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴑𐴟𐴃𐴟𐴁𐴞 𐴑𐴟𐴕𐴝 𐴉𐴥𐴡𐴕𐴄𐴢",
-            "studio":"https://drive.google.com/file/d/1epzM8zHo9UVjoIqWHTrsi8T8yfQ9_72f/view?usp=sharing",
-            "img": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/aaqutubi.jpg"
-
-        },
-        {
-
-            "name": "Rohingya Foyazi Kuna Font",
-            "description": "𐴀𐴠𐴀𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴙𐴅𐴧𐴝 𐴄𐴝𐴘𐴔𐴡𐴃𐴢 𐴔𐴝𐴎𐴥𐴠 𐴃𐴡𐴌𐴥𐴠 𐴘𐴥𐴡 𐴉𐴝𐴘𐴓𐴝𐴔، 𐴃𐴡𐴌𐴥𐴠 𐴊𐴠𐴑𐴤𐴞 𐴀𐴥𐴡𐴘𐴓𐴝𐴔 𐴃𐴡𐴌 𐴉𐴝𐴒𐴡𐴓𐴢، 𐴀𐴦𐴡 𐴓𐴠𐴑𐴤𐴝 𐴃𐴟𐴘 𐴀𐴠𐴀𐴕 𐴑𐴥𐴠𐴕 𐴐𐴥𐴟𐴕𐴊𐴡𐴌",
-            "Rating": "0",
-            "episode": "0",
-            "categorie":"𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴉𐴡𐴘𐴝𐴎𐴞 𐴑𐴟𐴕𐴝 𐴉𐴥𐴡𐴕𐴄𐴢",
-            "studio":"https://drive.google.com/file/d/19dRc21AZnHfvU_EPk8XNjnHmu-vZunqh/view?usp=sharing",
-            "img": "https://github.com/arakaneserohingya/RhgFontStyles/raw/main/aafoyazikna.png"
-
-        }
-        
-        
-
-    ]
