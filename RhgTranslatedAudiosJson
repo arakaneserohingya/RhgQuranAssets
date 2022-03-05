@@ -3,22 +3,22 @@
       {  
       "suraname":"Sura Al Fatihah",  
       "suraimageurl":"https://www.javatpoint.com/images/logo/javahome.png",  
-      "description":"Java is a high level, robust, object-oriented and secure programming language."  
+      "suranamerhg":"Rohingya"  
       },  
       {  
       "suraname":"Sura Al Baqra",  
       "suraimageurl":"https://www.javatpoint.com/images/logo/androidhome.png",  
-      "description":"Android is a complete set of software for mobile devices."  
+      "suranamerhg":"Rohingya"  
       },  
       {  
       "suraname":"Sura Al Amran",  
       "suraimageurl":"https://www.javatpoint.com/images/logo/pythonhome.png",  
-      "description":"Python is a general purpose, dynamic, high level and interpreted programming language."  
+      "suranamerhg":"Rohingya"  
       },  
       {  
       "suraname":"Sura An Nisa",  
       "suraimageurl":"https://www.javatpoint.com/images/logo/pythonhome.png",  
-      "description":"C++ is an object-oriented programming language."  
+      "suranamerhg":"Rohingya"  
       }  
                        ]  
 }  
