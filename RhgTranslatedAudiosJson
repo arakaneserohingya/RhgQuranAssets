@@ -2,25 +2,25 @@
 "rhgtranslatedsuralist":[  
       {  
       "suraname":"Sura Al Fatihah",  
-      "suraimageurl":"https://www.javatpoint.com/images/logo/javahome.png",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_1.png",  
       "suranamerhg":"Rohingya"  ,
        "suranumber":"1"  
       },  
       {  
       "suraname":"Sura Al Baqra",  
-      "suraimageurl":"https://www.javatpoint.com/images/logo/androidhome.png",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_2.png",  
       "suranamerhg":"Rohingya"  ,
       "suranumber":"2"  
       },  
       {  
       "suraname":"Sura Al Amran",  
-      "suraimageurl":"https://www.javatpoint.com/images/logo/pythonhome.png",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_3.png",  
       "suranamerhg":"Rohingya",
       "suranumber":"3"  
       },  
       {  
       "suraname":"Sura An Nisa",  
-      "suraimageurl":"https://www.javatpoint.com/images/logo/pythonhome.png",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_4.png",  
       "suranamerhg":"Rohingya",
       "suranumber":"4"  
       }  
