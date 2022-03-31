@@ -1,0 +1,799 @@
+{  
+"rhgtranslatedsuralist":[  
+      {  
+      "suraname":"Sura Al Fatihah",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_1.png",  
+      "suraurl":"https://1drv.ms/u/s!AmHAg4TouYR_a8Ysrl2aRcpDPeQ",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴉𐴝𐴃𐴞𐴇𐴝𐴥"  ,
+       "suranumber":"1"  
+      },  
+      {  
+      "suraname":"Sura Al Baqra",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_2.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/008.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴁𐴝𐴑𐴝𐴌𐴝"  ,
+      "suranumber":"2"  
+      },  
+      {  
+      "suraname":"Sura Al Amran",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_3.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/009.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴞 𐴀𐴞𐴔𐴌𐴝𐴕 ",
+      "suranumber":"3"  
+      },  
+      {  
+      "suraname":"Sura An Nisa",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_4.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴥𐴕 𐴕𐴞𐴏𐴝𐴥",
+      "suranumber":"4"  
+      }  ,
+       {  
+      "suraname":"Sura Al Maaida",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_5.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴔𐴝𐴦𐴀𐴞𐴊𐴝𐴤",
+      "suranumber":"5"  
+      }  ,
+       {  
+      "suraname":"Sura Al An'aam",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_6.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴀𐴝𐴕 𐴀𐴝𐴥𐴔",
+      "suranumber":"6"  
+      }  ,
+       {  
+      "suraname":"Sura Al A'raaf",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_7.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴀𐴝𐴌𐴝𐴉𐴢 ",
+      "suranumber":"7"  
+      }  ,
+       {  
+      "suraname":"Sura Al Anfaal",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_8.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴀𐴝𐴕𐴉𐴝𐴥𐴓𐴢",
+      "suranumber":"8"  
+      }  ,
+       {  
+      "suraname":"Sura At Tawba",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_9.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴃𐴧𐴝𐴀𐴟𐴁𐴝𐴤 ",
+      "suranumber":"9"  
+      }  ,
+       {  
+      "suraname":"Sura Yunus",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_10.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴞𐴘𐴧𐴟𐴕𐴟𐴏𐴢 ",
+      "suranumber":"10"  
+      }  ,
+       {  
+      "suraname":"Sura Hud",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_11.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴇𐴟𐴥𐴊𐴢 ",
+      "suranumber":"11"  
+      }  , {  
+      "suraname":"Sura Yusuf",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_12.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴞𐴘𐴧𐴟𐴏𐴟𐴥𐴉𐴢",
+      "suranumber":"12"  
+      }  ,
+       {  
+      "suraname":"Sura Ar Ra'd",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_13.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴌𐴧𐴝𐴀𐴝𐴊𐴢 ",
+      "suranumber":"13"  
+      }  ,
+       {  
+      "suraname":"Sura Ibrahim",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_14.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴞𐴥𐴁𐴌𐴝𐴇𐴞𐴥𐴔",
+      "suranumber":"14"  
+      }  ,
+       {  
+      "suraname":"Sura Al Hijr",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_15.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴇𐴞𐴥𐴅𐴌𐴞 ",
+      "suranumber":"15"  
+      }  ,
+       {  
+      "suraname":"Sura An Nahl",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_16.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴕𐴧𐴝𐴇𐴓𐴢",
+      "suranumber":"16"  
+      }  ,
+       {  
+      "suraname":"Sura Al Israa",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_17.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴀𐴞𐴏𐴌𐴝",
+      "suranumber":"17"  
+      }  ,
+       {  
+      "suraname":"Sura Al Kahf",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_18.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴑𐴝𐴤𐴉𐴢",
+      "suranumber":"18"  
+      }  ,
+       {  
+      "suraname":"Sura Maryam",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_19.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴔𐴝𐴌𐴞𐴘𐴧𐴝𐴔",
+      "suranumber":"19"  
+      }  ,
+       {  
+      "suraname":"Sura Taa Haa",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_20.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴃𐴝𐴇𐴝𐴥",
+      "suranumber":"20"  
+      }  ,
+       {  
+      "suraname":"Sura Al Anbiyaa",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_21.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴀𐴝𐴕𐴁𐴞𐴘𐴧𐴝",
+      "suranumber":"21"  
+      }  ,
+      
+       {  
+      "suraname":"Sura Al Hajj",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_22.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴇𐴝𐴥𐴅",
+      "suranumber":"22"  
+      }  ,
+       {  
+      "suraname":"Sura Al Muminoon",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_23.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴔𐴟𐴔𐴞𐴕𐴟𐴕",
+      "suranumber":"23"  
+      }  ,
+       {  
+      "suraname":"Sura An Noor",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_24.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴕 𐴕𐴟𐴦𐴌𐴢",
+      "suranumber":"24"  
+      }  ,
+       {  
+      "suraname":"Sura Al Furqaan",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_25.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴉𐴟𐴌𐴑𐴝𐴕 ",
+      "suranumber":"25"  
+      }  ,
+       {  
+      "suraname":"Sura Ash Shu'araa",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_26.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴐𐴧𐴟 𐴀𐴝𐴌𐴝",
+      "suranumber":"26"  
+      }  ,
+       {  
+      "suraname":"Sura An Naml",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_27.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴕𐴧𐴝𐴔𐴝𐴓𐴢 ",
+      "suranumber":"27"  
+      }  ,
+       {  
+      "suraname":"Sura Al Qasas",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_28.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴑𐴝𐴏𐴝𐴥𐴏𐴢 ",
+      "suranumber":"28"  
+      }  , {  
+      "suraname":"Sura Al Ankaboot",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_29.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴀𐴝𐴣𐴑𐴝𐴁𐴟𐴊𐴢",
+      "suranumber":"29"  
+      }  ,
+       {  
+      "suraname":"Sura Al Room",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_30.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴌𐴧𐴟𐴔 ",
+      "suranumber":"30"  
+      }  ,
+       {  
+      "suraname":"Sura Luqman",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_31.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴓𐴟𐴥𐴑𐴔𐴝𐴕",
+      "suranumber":"31"  
+      }  ,
+       {  
+      "suraname":"Sura As Sajda",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_32.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴏𐴧𐴝𐴅𐴊𐴝𐴤",
+      "suranumber":"32"  
+      }  ,
+       {  
+      "suraname":"Sura Al Ahzaab",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_33.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴀𐴝𐴇𐴎𐴝𐴁𐴢",
+      "suranumber":"33"  
+      }  ,
+       {  
+      "suraname":"Sura Saba",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_34.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴏𐴝𐴥𐴁𐴝",
+      "suranumber":"34"  
+      }  ,
+       {  
+      "suraname":"Sura Faatir",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_35.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴉𐴝𐴃𐴞𐴌",
+      "suranumber":"35"  
+      }  ,
+       {  
+      "suraname":"Sura Yaseen",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_36.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴞𐴘𐴧𐴝𐴏𐴞𐴥𐴕",
+      "suranumber":"36"  
+      }  ,
+       {  
+      "suraname":"Sura As Saaffaat",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_37.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴏𐴧𐴝𐴉𐴦𐴝𐴃𐴢",
+      "suranumber":"37"  
+      }  ,
+       {  
+      "suraname":"Sura Saad",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_38.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴏𐴝𐴥𐴊𐴢",
+      "suranumber":"38"  
+      }  ,
+       {  
+      "suraname":"Sura Az Zumar",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_39.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴎𐴧𐴟𐴔𐴝𐴌 ",
+      "suranumber":"39"  
+      }  ,
+       {  
+      "suraname":"Sura Ghafir",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_40.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴒𐴝𐴉𐴞𐴌",
+      "suranumber":"40"  
+      }  ,
+       {  
+      "suraname":"Sura Fussilat",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_41.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴉𐴟𐴏𐴧𐴞𐴓𐴝𐴃𐴢",
+      "suranumber":"41"  
+      }  ,
+       {  
+      "suraname":"Sura Ash Shura",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_42.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴐𐴧𐴟𐴌𐴝 ",
+      "suranumber":"42"  
+      }  ,
+       {  
+      "suraname":"Sura Az Zukhruf",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_43.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴎𐴧𐴟𐴑𐴌𐴟𐴉𐴢",
+      "suranumber":"43"  
+      }  ,
+       {  
+      "suraname":"Sura Ad Dukhaan",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_44.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴊𐴧𐴟𐴑𐴝𐴤𐴕 ",
+      "suranumber":"44"  
+      }  ,
+       {  
+      "suraname":"Sura Al Jaathiya",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_45.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴅𐴝𐴃𐴞𐴘𐴧𐴝",
+      "suranumber":"45"  
+      }  , {  
+      "suraname":"Sura Al Ahqaf",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_46.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴀𐴝𐴇𐴑𐴝𐴉𐴢",
+      "suranumber":"46"  
+      }  ,
+       {  
+      "suraname":"Sura Muhammad",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_47.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴔𐴟𐴇𐴥𐴝𐴔𐴧𐴡𐴊𐴢",
+      "suranumber":"47"  
+      }  ,
+       {  
+      "suraname":"Sura Al Fath",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_48.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴉𐴝𐴃𐴢",
+      "suranumber":"48"  
+      }  ,
+       {  
+      "suraname":"Sura Al Hujuraat",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_49.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓 𐴇𐴟𐴥𐴅𐴟𐴌𐴝𐴃𐴢 ",
+      "suranumber":"49"  
+      }  ,
+       {  
+      "suraname":"Sura Qaaf",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_50.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴑𐴝𐴉𐴢",
+      "suranumber":"50"  
+      }  ,
+       {  
+      "suraname":"Sura Adh Dhaariyat",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_51.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴎𐴧𐴝𐴌𐴞𐴘𐴝",
+      "suranumber":"51"  
+      }  ,
+       {  
+      "suraname":"Sura At Tur",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_52.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴃𐴧𐴟𐴌",
+      "suranumber":"52"  
+      }  ,
+       {  
+      "suraname":"Sura An Najm",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_53.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴕𐴧𐴝𐴅𐴔",
+      "suranumber":"53"  
+      }  ,
+       {  
+      "suraname":"Sura Al Qamar",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_54.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴑𐴝𐴔𐴝𐴌",
+      "suranumber":"54"  
+      }  ,
+       {  
+      "suraname":"Sura Ar Rahmaan",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_55.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴌𐴧𐴝𐴇𐴔𐴝𐴕",
+      "suranumber":"55"  
+      }  ,
+       {  
+      "suraname":"Sura Al Waaqia",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_56.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴖𐴝𐴑𐴞𐴘𐴧𐴝 ",
+      "suranumber":"56"  
+      }  ,
+       {  
+      "suraname":"Sura Al Hadid",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_57.png",  
+      "suraurl":"https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/010.mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴇𐴝𐴥𐴊𐴞𐴃𐴢",
+      "suranumber":"57"  
+      }  ,
+       {  
+      "suraname":"Sura Al Mujaadila",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_58.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/058._Surah_al-Muj%25C4%2581dilah___Rohingya_Translation_of_The_Holy_Quran(128k).m4a",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴔𐴟𐴅𐴝𐴊𐴞𐴓𐴝𐴇𐴤",
+      "suranumber":"58"  
+      }  ,
+       {  
+      "suraname":"Sura Al Hashr",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_59.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/059._Surah_al-Ha%25C5%25A1r___Rohingya_Translation_of_The_Holy_Quran(128k).m4a",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴇𐴝𐴥𐴐𐴌𐴢",
+      "suranumber":"59"  
+      }  ,
+       {  
+      "suraname":"Sura Al Mumtahana",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_60.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/060._Surah_al-Mumtahanah___Rohingya_Translation_of_The_Holy_Quran(128k).m4a",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴔𐴝𐴔𐴃𐴝𐴇𐴝𐴥𐴕𐴝𐴤",
+      "suranumber":"60"  
+      }  ,
+       {  
+      "suraname":"Sura As Saff",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_61.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/061._Surah_as-Saff___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴏𐴧𐴝𐴉𐴢 ",
+      "suranumber":"61"  
+      }  ,
+       {  
+      "suraname":"Sura Al Jumu'a",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_62.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/062._Surah_al-Jumuah___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴅𐴟𐴔𐴝𐴤",
+      "suranumber":"62"  
+      }  , {  
+      "suraname":"Sura Al Munaafiqoon",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_63.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/063._Surah_al-Mun%25C4%2581fiq%25CC%2588%25C5%25ABn___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴔𐴟𐴕𐴝𐴉𐴞𐴑𐴟𐴥𐴕",
+      "suranumber":"63"  
+      }  ,
+       {  
+      "suraname":"Sura At Taghaabun",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_64.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/064._Surah_at-Tagh%25C4%2581bun___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴃𐴧𐴝𐴒𐴝𐴤𐴁𐴟𐴕",
+      "suranumber":"64"  
+      }  ,
+       {  
+      "suraname":"Sura At Talaaq",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_65.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/065._Surah_at-Tal%25C4%2581q___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴃𐴧𐴝𐴓𐴝𐴥𐴑",
+      "suranumber":"65"  
+      }  ,
+       {  
+      "suraname":"Sura At Tahrim",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_66.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/066._Surah_at-Tahr%25C4%25ABm___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴃𐴧𐴝𐴤𐴌𐴞𐴥𐴔",
+      "suranumber":"66"  
+      }  ,
+       {  
+      "suraname":"Sura Al Mulk",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_67.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/067._Surah_al-Mulk___Rohingya_Translation_of_The_Holy_Quran(48k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴔𐴟𐴓𐴑",
+      "suranumber":"67"  
+      }  ,
+       {  
+      "suraname":"Sura Al Qalam",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_68.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/068._Surah_al-Qalam___Rohingya_Translation_of_The_Holy_Quran.M4A",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴑𐴝𐴓𐴝𐴔",
+      "suranumber":"68"  
+      }  ,
+       {  
+      "suraname":"Sura Al Haaqqa",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_69.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/069._Surah_al-H%25C4%2581qqah___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴇𐴝𐴥𐴑𐴧𐴝𐴥",
+      "suranumber":"69"  
+      }  ,
+       {  
+      "suraname":"Sura Al Ma'aarij",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_70.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/070._Surah_al-Ma%25C4%2581rij___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴔𐴝𐴌𐴞𐴥𐴅",
+      "suranumber":"70"  
+      }  ,
+       {  
+      "suraname":"Sura Nooh",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_71.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/071._Surah_N%25C5%25ABh___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴕𐴟𐴤𐴇𐴢",
+      "suranumber":"71"  
+      }  ,
+       {  
+      "suraname":"Sura Al Jinn",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_72.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/072._Surah_al-Jinn___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴅𐴞𐴥𐴕",
+      "suranumber":"72"  
+      }  ,
+       {  
+      "suraname":"Sura Al Muzzammil",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_73.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/073._Surah_al-Muzzammil___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴔𐴟𐴎𐴝𐴔𐴧𐴞𐴓𐴢",
+      "suranumber":"73"  
+      }  ,
+       {  
+      "suraname":"Sura Al Muddaththir",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_74.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/074._Surah_al-Muddathir___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴔𐴟𐴊𐴝𐴃𐴧𐴞𐴤𐴌𐴢",
+      "suranumber":"74"  
+      }  ,
+       {  
+      "suraname":"Sura Al Qiyaama",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_75.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/075._Surah_al-Qiyamah___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴑𐴞𐴥𐴘𐴧𐴝𐴔𐴝𐴤",
+      "suranumber":"75"  
+      }  ,
+       {  
+      "suraname":"Sura Al Insaan",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_76.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/076._Surah_al-Ins%25C4%2581n___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴀𐴞𐴕𐴏𐴝𐴤𐴕",
+      "suranumber":"76"  
+      }  ,
+       {  
+      "suraname":"Sura Al Mursalaat",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_77.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/077._Surah_al-Mursal%25C4%2581t___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴔𐴟𐴌𐴏𐴝𐴤𐴓𐴝𐴃𐴢",
+      "suranumber":"77"  
+      }  ,
+       {  
+      "suraname":"Sura An Naba",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_78.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/078._Surah_an-Naba___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴥𐴕 𐴕𐴝𐴁𐴝𐴤",
+      "suranumber":"78"  
+      }  ,
+       {  
+      "suraname":"Sura An Naazi'aat",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_79.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/079._Surah_an-N%25C4%2581zi%25C4%2581t___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴥𐴕 𐴕𐴝𐴎𐴞𐴀𐴝𐴃𐴢",
+      "suranumber":"79"  
+      }  , {  
+      "suraname":"Sura Abasa",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_80.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/080._Surah_Abasa___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴁𐴝𐴏𐴝",
+      "suranumber":"80"  
+      }  ,
+       {  
+      "suraname":"Sura At Takwir",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_81.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/081._Surah_at-Takw%25C4%25ABr___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴃𐴧𐴝𐴑 𐴖𐴞𐴥𐴌𐴢",
+      "suranumber":"81"  
+      }  ,
+       {  
+      "suraname":"Sura Al Infitaar",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_82.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/082._Surah_al-Infi%25E1%25B9%25AD%25C4%2581r___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴀𐴞𐴕𐴉𐴞𐴃𐴝𐴌𐴢",
+      "suranumber":"82"  
+      }  ,
+       {  
+      "suraname":"Sura Al Mutaffifin",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_83.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/083._Surah_al-Mu%25E1%25B9%25ADaffif%25C4%25ABn___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴔𐴟𐴃𐴝𐴉𐴧𐴞𐴉𐴞𐴥𐴕 ",
+      "suranumber":"83"  
+      }  ,
+       {  
+      "suraname":"Sura Al Inshiqaaq",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_84.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/084._Surah_al-In%25C5%25A1iq%25C4%2581q___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴀𐴞𐴕𐴐𐴞𐴤𐴑𐴝𐴥𐴑",
+      "suranumber":"84"  
+      }  ,
+       {  
+      "suraname":"Sura Al Burooj",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_85.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/085._Surah_al-Bur%25C5%25ABj___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴁𐴟𐴌𐴟𐴅𐴢",
+      "suranumber":"85"  
+      }  ,
+       {  
+      "suraname":"Sura At Taariq",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_86.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/086._Surah_a%25E1%25B9%25AD-%25E1%25B9%25AC%25C4%2581riq___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴃𐴝𐴌𐴞𐴥𐴑",
+      "suranumber":"86"  
+      }  ,
+       {  
+      "suraname":"Sura Al A'laa",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_87.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/087._Surah_al-A%25CA%25BFl%25C4%2581___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴀𐴝 𐴓𐴝𐴥",
+      "suranumber":"87"  
+      }  ,
+       {  
+      "suraname":"Sura Al Ghaashiya",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_88.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/088._Surah_Al-Ghashiyah___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴒𐴝𐴐𐴞𐴥𐴘𐴧𐴝",
+      "suranumber":"88"  
+      }  ,
+       {  
+      "suraname":"Sura Al Fajr",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_89.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/089._Surah_Al-Fajr___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴉𐴝𐴅𐴝𐴌𐴢",
+      "suranumber":"89"  
+      }  ,
+       {  
+      "suraname":"Sura Al Balad",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_90.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/090._Surah_Al-Balad___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴁𐴝𐴓𐴝𐴊𐴢",
+      "suranumber":"90"  
+      }  ,
+       {  
+      "suraname":"Sura Ash Shams",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_91.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/091._Surah_Al-Shams___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴐𐴧𐴝𐴔𐴏𐴢",
+      "suranumber":"91"  
+      }  ,
+       {  
+      "suraname":"Sura Al Lail",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_92.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/092._Surah_Al-Lail___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴓𐴢 𐴓𐴝𐴙𐴓𐴢",
+      "suranumber":"92"  
+      }  ,
+       {  
+      "suraname":"Sura Ad Dhuhaa",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_93.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/093._Surah_a%25E1%25B8%258D-%25E1%25B8%258Cu%25E1%25B8%25A5%25C4%2581____Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"𐴏𐴟𐴌𐴝 𐴀𐴝𐴥𐴊𐴧𐴟𐴇𐴝𐴤",
+      "suranumber":"93"  
+      }  ,
+       {  
+      "suraname":"Sura Ash Sharh",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_94.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/094._Surah_a%25C5%25A1-%25C5%25A0ar%25E1%25B8%25A5____Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"94"  
+      }  ,
+       {  
+      "suraname":"Sura At Tin",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_95.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/095._Surah_at-T%25C4%25ABn___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"95"  
+      }  ,
+       {  
+      "suraname":"Sura Al Alaq",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_96.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/096._Surah_al-Alaq___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"96"  
+      }  , {  
+      "suraname":"Sura Al Qadr",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_97.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/097._Surah_al-Qadr___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"97"  
+      }  ,
+       {  
+      "suraname":"Sura Al Bayyina",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_98.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/098._Surah_al-Bayyinah___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"98"  
+      }  ,
+       {  
+      "suraname":"Sura Az Zalzala",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_99.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/099._Surah_az-Zalzalah___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"99"  
+      }  ,
+       {  
+      "suraname":"Sura Al Aadiyaat",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_100.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/100._Surah_al-Adiy%25C4%2581t___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"100"  
+      }  ,
+       {  
+      "suraname":"Sura Al Qaari'a",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_101.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/101._Surah_al-Q%25C4%2581riah___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"101"  
+      }  ,
+       {  
+      "suraname":"Sura At Takaathur",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_102.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/102._Surah_at-Tak%25C4%2581thur___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"102"  
+      }  ,
+       {  
+      "suraname":"Sura Al Asr",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_103.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/103._Surah_al-%25CA%25BFA%25E1%25B9%25A3r___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"103"  
+      }  ,
+       {  
+      "suraname":"Sura Al Humaza",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_104.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/104._Surah_al-Humazah___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"104"  
+      }  ,
+       {  
+      "suraname":"Sura Al Fil",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_105.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/105._Surah_al-F%25C4%25ABl___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"105"  
+      }  ,
+       {  
+      "suraname":"Sura Quraish",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_106.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/106._Surah_al-Quray%25C5%25A1___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"106"  
+      }  ,
+       {  
+      "suraname":"Sura Al Maa'un",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_107.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/107._Surah_al-Ma%25C5%25ABn___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"107"  
+      }  ,
+       {  
+      "suraname":"Sura Al Kawthar",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_108.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/108._Surah_al-Kawthar___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"108"  
+      }  ,
+       {  
+      "suraname":"Sura Al Kaafiroon",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_109.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/109._Surah_al-K%25C4%2581fir%25C5%25ABn___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"109"  
+      }  ,
+       {  
+      "suraname":"Sura An Nasr",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_110.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/110._Surah_an-Na%25E1%25B9%25A3r___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"110"  
+      }  ,
+       {  
+      "suraname":"Sura Al Masad",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_111.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/111._Surah_al-Masad___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"111"  
+      }  ,
+       {  
+      "suraname":"Sura Al Ikhlaas",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_112.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/112._Surah_al-Ikhl%25C4%2581%25E1%25B9%25A3___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"112"  
+      }  ,
+       {  
+      "suraname":"Sura Al Falaq",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_113.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/113._Surah_al-Falaq___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"113"  
+      }  , {  
+      "suraname":"Sura An Naas",  
+      "suraimageurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/QuranSuraNamesPngs/sname_114.png",  
+      "suraurl":"https://github.com/arakaneserohingya/RhgQuranAssets/raw/main/Quran%20Surah%20Rhg%20Translation%20audios/114._Surah_an-N%25C4%2581s___Rohingya_Translation_of_The_Holy_Quran(256k).mp3",
+      "suranamerhg":"",
+      "suranumber":"114"  
+      }  
+      
+      
+      
+                       ]  
+}  
