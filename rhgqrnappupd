@@ -1,1 +1,9 @@
-[]
+{ "title": "This is Title!",
+"message": "This is Message",
+"download": "Direct APK Download Link!!!",
+"playstore": "com.rohingya.qurantranslation",
+"uninstall": false,
+"what": { "model": [],
+"version": [], "all": true },
+"versionName": "2.0", 
+"versionCode": 2, "force": true }
