@@ -1,39 +1,156 @@
  [
     {
-      "name": "\u0627\u0644\u0631\u064e\u0651\u062d\u0652\u0645\u064e\u0646\u064f",
-      "transliteration": "Ar Rahmaan",
+      "name": "𐴉𐴡𐴎𐴡𐴌𐴡𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Fajr | The Morning Prayer",
       "number": 1,
       "meaning": "The Beneficent"
       
     },
     {
-      "name": "\u0627\u0644\u0631\u064e\u0651\u062d\u0650\u064a\u0645\u064f",
-      "transliteration": "Ar Raheem",
+      "name": "𐴎𐴟𐴇𐴟𐴌𐴡𐴌 𐴕𐴡𐴔𐴝𐴏𐴢",
+      "transliteration": "Zuhr | The Noon Prayer",
       "number": 2,
       "meaning": "The Merciful"
     },
     {
-      "name": "\u0627\u0644\u0652\u0645\u064e\u0644\u0650\u0643\u064f",
-      "transliteration": "Al Malik",
+      "name": "𐴀𐴝𐴏𐴡𐴌𐴡𐴌 𐴕𐴟𐴖𐴝𐴏𐴢 ",
+      "transliteration": "Asr | The Afternoon Prayer",
       "number": 3,
       "meaning": "The King \/ Eternal Lord"
     },
     {
-      "name": "\u0627\u0644\u0652\u0642\u064f\u062f\u064f\u0651\u0648\u0633\u064f",
-      "transliteration": "Al Quddus",
+      "name": "𐴔𐴝𐴒𐴌𐴞𐴉𐴡𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Magrib | The Evening Prayer",
       "number": 4,
       "meaning": "The Purest"
     },
     {
-      "name": "\u0627\u0644\u0633\u064e\u0651\u0644\u0627\u064e\u0645\u064f",
-      "transliteration": "As Salaam",
+      "name": "𐴀𐴠𐴏𐴝𐴌𐴡 𐴕𐴟𐴖𐴝𐴏𐴢 ",
+      "transliteration": "Isha | The Night Prayer",
       "number": 5,
       "meaning": "The Source of Peace"
     },
     {
-      "name": "\u0627\u0644\u0652\u0645\u064f\u0624\u0652\u0645\u0650\u0646\u064f",
-      "transliteration": "Al Mu'min",
+      "name": "𐴅𐴟𐴔𐴝𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Jumua | Friday Community Prayer",
       "number": 6,
+      "meaning": "The inspirer of faith"
+    },
+    {
+      "name": "𐴅𐴝𐴕𐴝𐴎𐴝𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Janaza | Funeral Prayer",
+      "number": 7,
+      "meaning": "The inspirer of faith"
+    },
+    {
+      "name": "𐴖𐴟𐴎𐴟𐴌 𐴁𐴦𐴝𐴊𐴠 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Tahiaat-ul- Wudu | Prayer after performing Ablution",
+      "number": 8,
+      "meaning": "The inspirer of faith"
+    },
+    {
+      "name": "𐴔𐴡𐴏𐴡𐴘𐴃𐴡𐴃 𐴒𐴡𐴓𐴝𐴌 𐴁𐴦𐴝𐴊𐴠 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Dukhul-ul- Masjid | Prayer after entering the mosque",
+      "number": 9,
+      "meaning": "The inspirer of faith"
+    },
+     {
+      "name": "𐴃𐴝𐴇𐴥𐴝𐴅𐴧𐴡𐴃𐴡𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Salat-ut-Tahajjud | Prayer at night before dawn",
+      "number": 10,
+      "meaning": "The inspirer of faith"
+    },
+     {
+      "name": "𐴃𐴝𐴌𐴝𐴁𐴞𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Salat-ut-Tarabeeh | Prayer at night in Ramadan",
+      "number": 11,
+      "meaning": "The inspirer of faith"
+    },
+    {
+      "name": "𐴌𐴟𐴎𐴝 𐴀𐴞𐴊𐴡𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Id-ul-Fitr | Prayer of Eidul Fitr",
+      "number": 12,
+      "meaning": "The inspirer of faith"
+    },
+     {
+      "name": "𐴑𐴟𐴌𐴁𐴦𐴝𐴕 𐴀𐴞𐴊𐴡𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Eidul-ul-Adha | Prayer of Eidul Adha",
+      "number": 13,
+      "meaning": "The inspirer of faith"
+    },
+    {
+      "name": "𐴓𐴝𐴘𐴓𐴝𐴃𐴟𐴓 𐴁𐴡𐴌𐴦𐴝𐴃𐴢",
+      "transliteration": "Lailat-ul-Barat | Prayer of the night of Forgiveness",
+      "number": 14,
+      "meaning": "The inspirer of faith"
+    },
+    {
+      "name": "𐴓𐴝𐴘𐴓𐴝𐴃𐴟𐴓 𐴑𐴡𐴊𐴥𐴡𐴌",
+      "transliteration": "Lailat-ul-Qadr | Prayer of the night of Decree",
+      "number": 15,
+      "meaning": "The inspirer of faith"
+    },
+    {
+      "name": "𐴓𐴝𐴘𐴓𐴝𐴃𐴟𐴓 𐴔𐴞𐴌𐴦𐴝𐴅",
+      "transliteration": "Lailat-ul-Miraj | Prayer of the night of Ascent",
+      "number": 16,
+      "meaning": "The inspirer of faith"
+    },
+     {
+      "name": "𐴀𐴞𐴐𐴌𐴦𐴝𐴑𐴡𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Salat-ul-Ishraaq | Prayer after Sunrise",
+      "number": 17,
+      "meaning": "The inspirer of faith"
+    },
+    {
+      "name": "𐴊𐴟𐴇𐴥𐴝𐴕𐴧𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Salat-ul-Duha | Prayer before Meridian",
+      "number": 18,
+      "meaning": "The inspirer of faith"
+    },
+    {
+      "name": "𐴀𐴦𐴝𐴖𐴦𐴝𐴁𐴞𐴕𐴡𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Salat-ul-Awaabeen | Prayer after Evening Prayer",
+      "number": 19,
+      "meaning": "The inspirer of faith"
+    },
+    {
+      "name": "𐴃𐴡𐴏𐴁𐴞𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Salat-ut-Tasbih | Prayer for forgiveness of all sin",
+      "number": 20,
+      "meaning": "The inspirer of faith"
+    },
+    {
+      "name": "𐴃𐴡𐴗𐴁𐴝𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Salat-ut-Tauba | Prayer of Repentance",
+      "number": 21,
+      "meaning": "The inspirer of faith"
+    },
+    {
+      "name": "𐴇𐴦𐴝𐴅𐴡𐴃𐴡𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Salat-ul-Hajat | Prayer of Fulfillment of Needs",
+      "number": 22,
+      "meaning": "The inspirer of faith"
+    },
+    {
+      "name": "𐴐𐴟𐴑𐴟𐴌𐴞𐴘𐴝𐴌 𐴕𐴟𐴖𐴝𐴏𐴢",
+      "transliteration": "Salat-us-Shkuri | Prayer of Gratitude",
+      "number": 23,
       "meaning": "The inspirer of faith"
     }
   ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
