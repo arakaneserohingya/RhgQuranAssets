@@ -1,6 +1,3 @@
-Here is the transformed JSON with the keys renamed according to your requirements. I have corrected the spelling of "englisg" to "english" for the last key.
-
-```json
 {
   "duas": [
     {
@@ -215,5 +212,3 @@ Here is the transformed JSON with the keys renamed according to your requirement
     }
   ]
 }
-
-```
